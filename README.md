@@ -1,4 +1,5 @@
-# 📄 PDFanalizer
+# 📄 DocumentsSummerization
+
 
 An AI-powered PDF summarizer that extracts text from PDFs and generates clear, concise summaries using the Groq API.
 
