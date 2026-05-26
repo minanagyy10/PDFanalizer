@@ -101,4 +101,4 @@ Frontend runs at: `http://localhost:8501`
 ## 👤 Author
 
 **Mina Nagy**  
-GitHub: [@minanagyy10](https://github.com/minanagyy10)
+
