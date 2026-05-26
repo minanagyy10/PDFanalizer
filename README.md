@@ -46,7 +46,8 @@ pdfsummarizer/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/minanagyy10/PDFanalizer.git
+git clone https://github.com/minanagyy10/DocumentsSummerization
+
 cd PDFanalizer
 ```
 
