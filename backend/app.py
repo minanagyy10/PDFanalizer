@@ -5,9 +5,9 @@ import pytesseract
 import os
 from groq import Groq
 from dotenv import load_dotenv
-
-load_dotenv()
-
+import pytesseract
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+load_dotenv(dotenv_path=os.path.join(os.path.dirname(__file__), '.env'))
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 POPPLER_PATH = r"C:\poppler\Library\bin"
 
